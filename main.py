@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Funniest One-Line Out-of-Office Reply (make.fun).
 
-Writes the entry -- one original line -- to /output/entry.txt,
-where the sealed scorer reads it.
+Writes the entry -- a single original line, the out-of-office reply --
+to /output/entry.txt, where the sealed scorer reads it.
 """
 
 import os
